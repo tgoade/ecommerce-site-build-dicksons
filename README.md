@@ -45,5 +45,5 @@ This is a past project for which I built the front end. The project involved dev
   <img src="screenshots/Dicksons-policy.jpg" alt="" width="550">  
 </p> 
 
-## Live Link
+## Site URL
 [https://www.dicksonsgifts.com/](https://www.dicksonsgifts.com/)  
