@@ -12,25 +12,35 @@ This is a past project for which I built the front end. The project involved dev
 
 ### Home Page
 <p>
-  <img src="screenshots/Fitz-desktop-3.jpg" alt="" width="550" height="1248">  
-</p> 
-
-### Category Page
-<p>
-  <img src="screenshots/Fitz-category.jpg" alt="" width="550" height="870">  
+  <img src="screenshots/Dicksons-Gifts.jpg" alt="" width="550" >  
 </p> 
 
 ### Product Detail Page
 <p>
-  <img src="screenshots/fitz-product-detail.jpg" alt="" width="550" height="918">  
+  <img src="screenshots/Dicksons-menu.jpg" alt="" width="550" >  
+</p> 
+
+### Category Page
+<p>
+  <img src="screenshots/Dicksons-spotlight.jpg" alt="" width="550" >  
+</p> 
+
+### Product Detail Page
+<p>
+  <img src="screenshots/Dicksons-product.jpg" alt="" width="550">  
 </p> 
 
 ### Cart
 <p>
-  <img src="screenshots/fitz-shopping-cart.jpg" alt="" width="550" height="950">  
+  <img src="screenshots/Dicksons-cart.jpg" alt="" width="550">  
 </p> 
 
 ### Contact Page
 <p>
-  <img src="screenshots/fitzcontact-us.jpg" alt="" width="550" height="843">  
+  <img src="screenshots/Dicksons-contact.jpg" alt="" width="550">  
+</p> 
+
+### Policy Page
+<p>
+  <img src="screenshots/Dicksons-policy.jpg" alt="" width="550">  
 </p> 
