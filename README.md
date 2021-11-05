@@ -1,7 +1,9 @@
 # Dicksons Gift
 
 ## About
-This is a past project for which I built the front end. The project involved developing the front end of the site and integrated it with the shopping cart platform.  I didn't keep the code but the screenshots hopefully demonstrates the scope of the work.
+This is a past project for which I built the front end based on design mockups. The project involved developing the front end of the site and integrated it with the shopping cart platform.  
+
+I didn't keep the code but the screenshots hopefully demonstrates the scope of the work.
 
 ## Tech Stack
 
