@@ -23,6 +23,12 @@ I didn't keep the code but the screenshots hopefully demonstrates the scope of t
 </p> 
 <br/>
 
+### Navigation Dropdown
+<p>
+  <img src="screenshots/Dicksons-mobile-menu.jpg" alt="" width="300" >  
+</p> 
+<br/>
+
 ### Category Page
 <p>
   <img src="screenshots/Dicksons-spotlight.jpg" alt="" width="550" >  
