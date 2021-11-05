@@ -23,7 +23,7 @@ I didn't keep the code but the screenshots hopefully demonstrates the scope of t
 </p> 
 <br/>
 
-### Navigation Dropdown
+### Mobile Menu
 <p>
   <img src="screenshots/Dicksons-mobile-menu.jpg" alt="" width="300" >  
 </p> 
