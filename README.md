@@ -17,12 +17,13 @@ I didn't keep the code but the screenshots hopefully demonstrates the scope of t
   <img src="screenshots/Dicksons-Gifts.jpg" alt="" width="550" >  
 </p> 
 
-### Product Detail Page
+### Navigation Dropdown
 <p>
   <img src="screenshots/Dicksons-menu.jpg" alt="" width="550" >  
 </p> 
+<br/>
 
-### Navigation Dropdown
+### Category Page
 <p>
   <img src="screenshots/Dicksons-spotlight.jpg" alt="" width="550" >  
 </p> 
@@ -37,7 +38,7 @@ I didn't keep the code but the screenshots hopefully demonstrates the scope of t
   <img src="screenshots/Dicksons-cart.jpg" alt="" width="550">  
 </p> 
 
-### Contact Page
+### Contact Us Page
 <p>
   <img src="screenshots/Dicksons-contact.jpg" alt="" width="550">  
 </p> 
