@@ -22,17 +22,17 @@ I didn't keep the code but the screenshots hopefully demonstrates the scope of t
   <img src="screenshots/Dicksons-menu.jpg" alt="" width="550" >  
 </p> 
 
-### Category Page
+### Navigation Dropdown
 <p>
   <img src="screenshots/Dicksons-spotlight.jpg" alt="" width="550" >  
 </p> 
 
-### Product Detail Page
+### Product Details Page
 <p>
   <img src="screenshots/Dicksons-product.jpg" alt="" width="550">  
 </p> 
 
-### Cart
+### Shopping Cart
 <p>
   <img src="screenshots/Dicksons-cart.jpg" alt="" width="550">  
 </p> 
